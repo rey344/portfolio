@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Live Site](https://img.shields.io/badge/Live-Portfolio-00FFB2?style=for-the-badge)](https://reysanchez.github.io/Portfolio/)
+  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/rey344/Portfolio)
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-7F5AF0?style=for-the-badge&logo=github)](https://github.com/rey344)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rey-sanchez-06/)
   
@@ -147,15 +147,50 @@ Aug 2021 – Dec 2025
 
 ## 📦 Deployment
 
-This portfolio is deployed on **GitHub Pages** and automatically updates with each push to the `main` branch.
+This portfolio is deployed on **Vercel** for optimal performance, edge caching, and the ability to add serverless functions in the future.
 
-### Deploying Your Own Version
+### Deploy to Vercel (Recommended)
 
-1. Fork this repository
-2. Update content in `Index.html` with your information
-3. Enable GitHub Pages in repository settings
-4. Select `main` branch as source
-5. Your site will be live at `https://[username].github.io/Portfolio/`
+**Option A: GitHub Integration (Easiest)**
+1. Push your code to GitHub
+2. Visit [vercel.com](https://vercel.com)
+3. Sign in with GitHub
+4. Click "Import Project"
+5. Select your Portfolio repository
+6. Click "Deploy" (no configuration needed!)
+7. Your site will be live at `https://[project-name].vercel.app`
+
+**Option B: Vercel CLI**
+```bash
+# Install Vercel CLI globally
+npm i -g vercel
+
+# Navigate to your project
+cd Portfolio
+
+# Deploy (follow the prompts)
+vercel
+
+# For production deployment
+vercel --prod
+```
+
+**Benefits:**
+- ⚡ Global CDN with edge caching
+- 🔄 Automatic deployments on git push
+- 🔍 Preview URLs for every commit
+- 📊 Free analytics and performance insights
+- 🚀 Easy to add serverless API routes later
+- 🌐 Custom domain support (free SSL)
+
+### Alternative: GitHub Pages
+
+If you prefer GitHub Pages:
+1. Enable GitHub Pages in repository settings
+2. Select `main` branch as source
+3. Your site will be live at `https://[username].github.io/Portfolio/`
+
+**Note:** GitHub Pages works great for static sites but doesn't support serverless functions.
 
 ---
 
