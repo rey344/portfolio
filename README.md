@@ -12,11 +12,11 @@
 
 ---
 
-## 🚀 About
+##  About
 
 A modern, responsive portfolio showcasing my work as a **Full-Stack AI Engineer** with expertise in building intelligent systems, scalable web applications, and user-centric solutions. This site highlights my projects, experience, and technical capabilities in software engineering and applied artificial intelligence.
 
-### 🎯 Key Focus Areas
+###  Key Focus Areas
 - **AI/ML Engineering** — Building intelligent systems with real-world applications
 - **Full-Stack Development** — End-to-end product development from concept to deployment
 - **System Design** — Architecting scalable, maintainable software solutions
@@ -24,7 +24,7 @@ A modern, responsive portfolio showcasing my work as a **Full-Stack AI Engineer*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This portfolio is built with modern web technologies emphasizing performance, accessibility, and aesthetics:
 
@@ -35,16 +35,16 @@ This portfolio is built with modern web technologies emphasizing performance, ac
 - **Canvas API** — Interactive grid background animations
 
 ### **Design Principles**
-- 📱 **Responsive Design** — Mobile-first, works across all devices
-- ⚡ **Performance Optimized** — Fast load times, minimal dependencies
-- ♿ **Accessibility** — WCAG compliant, semantic HTML
-- 🎨 **Modern UI/UX** — Clean, minimalist design with smooth animations
+-  **Responsive Design** — Mobile-first, works across all devices
+-  **Performance Optimized** — Fast load times, minimal dependencies
+-  **Accessibility** — WCAG compliant, semantic HTML
+-  **Modern UI/UX** — Clean, minimalist design with smooth animations
 
 ---
 
-## 📂 Project Highlights
+##  Project Highlights
 
-### **HomePilot** 🏠
+### **HomePilot** 
 > AI-assisted homebuying & financial planning platform
 
 An intelligent platform that surfaces the **true cost of homeownership** — including PITI (Principal, Interest, Taxes, Insurance), HOA fees, PMI, and maintenance costs — all aligned with the **50/30/20 budgeting framework**.
@@ -61,7 +61,7 @@ An intelligent platform that surfaces the **true cost of homeownership** — inc
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Senior Research & Development Assistant** — *UTEP*  
 _Aug 2024 – Present_
@@ -76,7 +76,7 @@ _Aug 2023 – Present_
 
 ---
 
-## 🎓 Education
+##  Education
 
 **University of Texas at El Paso**  
 _B.S. Computer Science · Mathematics Minor_  
@@ -88,19 +88,19 @@ Aug 2021 – Dec 2025
 
 ---
 
-## 🌐 Features of This Portfolio
+##  Features of This Portfolio
 
-- ✨ **Dynamic Grid Canvas** — Interactive background animation
-- 🎯 **Smooth Scrolling** — Seamless navigation experience
-- 🌙 **Dark Theme** — Modern, eye-comfortable design
-- 📊 **Project Showcase** — Detailed case studies with live demos
-- 📈 **Timeline Visualization** — Career progression and achievements
-- 🎨 **Glassmorphism UI** — Contemporary design patterns
+-  **Dynamic Grid Canvas** — Interactive background animation
+-  **Smooth Scrolling** — Seamless navigation experience
+-  **Dark Theme** — Modern, eye-comfortable design
+-  **Project Showcase** — Detailed case studies with live demos
+-  **Timeline Visualization** — Career progression and achievements
+-  **Glassmorphism UI** — Contemporary design patterns
 - ⚡ **Fast Loading** — Optimized assets and minimal dependencies
 
 ---
 
-## 🚀 Local Development
+##  Local Development
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -145,7 +145,7 @@ Aug 2021 – Dec 2025
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 This portfolio is deployed on **Vercel** for optimal performance, edge caching, and the ability to add serverless functions in the future.
 
@@ -176,12 +176,12 @@ vercel --prod
 ```
 
 **Benefits:**
-- ⚡ Global CDN with edge caching
-- 🔄 Automatic deployments on git push
-- 🔍 Preview URLs for every commit
-- 📊 Free analytics and performance insights
-- 🚀 Easy to add serverless API routes later
-- 🌐 Custom domain support (free SSL)
+-  Global CDN with edge caching
+-  Automatic deployments on git push
+-  Preview URLs for every commit
+-  Free analytics and performance insights
+-  Easy to add serverless API routes later
+-  Custom domain support (free SSL)
 
 ### Alternative: GitHub Pages
 
@@ -194,7 +194,7 @@ If you prefer GitHub Pages:
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Color Scheme
 The design system uses CSS variables for easy theming:
@@ -214,23 +214,22 @@ The design system uses CSS variables for easy theming:
 
 ---
 
-## 📧 Contact
+##  Contact
 
 I'm always open to discussing new opportunities, collaborations, or interesting tech challenges.
 
-- **Email:** [Your Email]
-- **LinkedIn:** [linkedin.com/in/rey-sanchez-06](https://www.linkedin.com/in/rey-sanchez-06/)
+- **LinkedIn:** [linkedin.com/in/rsanchez44](https://www.linkedin.com/in/rsanchez44/)
 - **GitHub:** [github.com/rey344](https://github.com/rey344)
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Design inspiration from modern web portfolios and design systems
 - Icons and imagery sourced responsibly
@@ -240,8 +239,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   
-  **Made with ❤️ by Rey Sanchez**
   
-  ⭐ Star this repo if you find it helpful!
+   Star this repo if you find it helpful!
   
 </div>
